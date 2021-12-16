@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Alexandre Miranda
 
 
-🔭 Atualmente trabalhando como Suporte
-🌱 Estudando desenvolvimento Full-Stack
+<p>🔭 Atualmente trabalhando como Suporte</p>
+<p>🌱 Estudando desenvolvimento Full-Stack</p>
 
 <div align="center">
   <a href="https://github.com/alemiranda-dev" rel="noopener noreferrer">
