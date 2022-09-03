@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Alexandre Miranda
 
 
-<p>🔭 Atualmente trabalhando como Suporte</p>
-<p>🌱 Estudando desenvolvimento Full-Stack</p>
+<p>🔭 Atualmente trabalhando como Front-End em uma empresa voltada para o SEO</p>
 
 <div align="center">
   <a href="https://github.com/alemiranda-dev" rel="noopener noreferrer">
@@ -16,6 +15,9 @@
   <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ale-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt="Ale-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Ale-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"> 
   <img align="center" alt="Ale-JIRA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </p>
 <p>
