@@ -1,7 +1,7 @@
 ## Olá! Me chamo Alexandre.
 
 
-<p>👨‍💻 Atualmente trabalhando com Front-End</p>
+<p>👨‍💻 Atualmente tenho experiência e trabalho com Front-End</p>
 
 <div align="center">
   <a href="https://github.com/alemiranda-dev" rel="noopener noreferrer">
