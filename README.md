@@ -2,12 +2,9 @@
 
 
 <p>👨‍💻 Atualmente tenho experiência e trabalho com front-end, porém estou fazendo pós-graduação em Arquitetura de Software e otimizando conhecimentos no back-end.</p>
-
-<div style="display: inline_block"><br>
 <div align="center" style="margin-bottom: 25px;">
   <a href="https://app.daily.dev/alexandremiranda"><img src="https://api.daily.dev/devcards/v2/Hsym3COPu4hdrBCX6jDuo.png?type=wide&r=qd3" width="652" alt="Alexandre Miranda's Dev Card"/></a>
 </div>
-<div style="display: inline_block"><br>
 <p>
   📌 Tenho experiência:
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
