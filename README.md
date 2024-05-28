@@ -4,7 +4,7 @@
 <p>👨‍💻 Atualmente tenho experiência e trabalho com Front-End</p>
 
 <div style="display: inline_block"><br>
-<div> <a href="https://app.daily.dev/alexandremiranda"><img src="https://api.daily.dev/devcards/v2/Hsym3COPu4hdrBCX6jDuo.png?type=default&r=qd3" width="356" alt="Alexandre Miranda's Dev Card"/></a> </div>
+<div><a href="https://app.daily.dev/alexandremiranda"><img src="https://api.daily.dev/devcards/v2/Hsym3COPu4hdrBCX6jDuo.png?type=wide&r=qd3" width="652" alt="Alexandre Miranda's Dev Card"/></a></div>
 <p>
   📌 Tenho experiência:
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
