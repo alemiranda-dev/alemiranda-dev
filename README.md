@@ -1,7 +1,7 @@
 ## Olá! Me chamo Alexandre.
 
 
-<p>👨‍💻 Atualmente tenho experiência e trabalho com front-end, porém estou fazendo pós-graduação em Arquitetura de Software e otimizando conhecimentos no back-end.</p>
+<p class="m-0">👨‍💻 Atualmente tenho experiência e trabalho com front-end, porém estou fazendo pós-graduação em Arquitetura de Software e otimizando conhecimentos no back-end.</p>
 
 <div style="display: inline_block"><br>
 <div align="center">
