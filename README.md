@@ -17,7 +17,7 @@
 - React Query (TanStack)
 - Virtual (TanStack) 
 - Jotai
-- Zustend
+- Zustand
 - i18n  
 - Axios  
 
